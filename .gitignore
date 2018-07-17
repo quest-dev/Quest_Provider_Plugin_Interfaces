@@ -1,0 +1,15 @@
+## Ignore Mac OS Stuff
+.DS_Store
+
+## Python Stuff
+__pycache__
+.pytest_cache/
+*.pyc
+.ipynb_checkpoints
+
+## Random
+.cache
+.idea
+*.egg
+.eggs/
+.egg-info/
